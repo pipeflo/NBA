@@ -1,0 +1,21 @@
+{
+  "name": "watsonwork-bot-seed",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Van Staub",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.14.x",
+    "express": "4.13.x",
+    "jsonwebtoken": "^7.1.9",
+    "method-override": "^2.3.6",
+    "request": "^2.76.0"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}
